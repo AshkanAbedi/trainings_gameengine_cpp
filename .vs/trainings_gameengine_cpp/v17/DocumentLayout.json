@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFE00F08-3F80-4359-B99C-EEA6C6A848BB}|Sandbox\\Sandbox.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AFE00F08-3F80-4359-B99C-EEA6C6A848BB}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AFE00F08-3F80-4359-B99C-EEA6C6A848BB}|Sandbox\\Sandbox.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFE00F08-3F80-4359-B99C-EEA6C6A848BB}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Core\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Core\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Core\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95D7485E-13E7-4FA5-89D3-039CF31AF622}|Engine\\Engine.vcxproj|solutionrelative:Engine\\src\\Core\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T11:51:07.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Engine.h",
+              "RelativeDocumentMoniker": "Engine\\src\\Engine.h",
+              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Engine.h",
+              "RelativeToolTip": "Engine\\src\\Engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T11:49:14.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Core.h",
+              "RelativeDocumentMoniker": "Engine\\src\\Core\\Core.h",
+              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Core.h",
+              "RelativeToolTip": "Engine\\src\\Core\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T11:31:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\EntryPoint.h",
+              "RelativeDocumentMoniker": "Engine\\src\\Core\\EntryPoint.h",
+              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\EntryPoint.h",
+              "RelativeToolTip": "Engine\\src\\Core\\EntryPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T11:59:42.077Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -38,41 +102,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Sandbox\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\src\\Application.cpp",
-              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Sandbox\\src\\Application.cpp",
-              "RelativeToolTip": "Sandbox\\src\\Application.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-19T16:19:45.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.h",
-              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Test.h",
-              "RelativeDocumentMoniker": "Engine\\src\\Test.h",
-              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Test.h",
-              "RelativeToolTip": "Engine\\src\\Test.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Application.h",
+              "RelativeDocumentMoniker": "Engine\\src\\Core\\Application.h",
+              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Application.h",
+              "RelativeToolTip": "Engine\\src\\Core\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-19T16:14:44.806Z",
+              "WhenOpened": "2025-09-24T11:32:24.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Test.cpp",
-              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Test.cpp",
-              "RelativeDocumentMoniker": "Engine\\src\\Test.cpp",
-              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Test.cpp",
-              "RelativeToolTip": "Engine\\src\\Test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Application.cpp",
+              "RelativeDocumentMoniker": "Engine\\src\\Core\\Application.cpp",
+              "ToolTip": "C:\\Work\\C\u002B\u002BPractice\\trainings_gameengine_cpp\\Engine\\src\\Core\\Application.cpp",
+              "RelativeToolTip": "Engine\\src\\Core\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-19T16:14:58.633Z",
+              "WhenOpened": "2025-09-24T11:33:02.899Z",
               "EditorCaption": ""
             }
           ]
