@@ -1,5 +1,6 @@
 #pragma once
 // For use by other projects and applications inside this solution
+#include "stdio.h"
 #include "Core/Application.h"
 #include "Core/EntryPoint.h"
 
