@@ -1,0 +1,11 @@
+# Directories
+
+.vs/
+Binaries/
+Intermediate/
+
+# Files
+
+.user
+
+
